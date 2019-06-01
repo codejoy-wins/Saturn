@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-family: 'Lato', sans-serif;
 }
 
 .App-logo {
@@ -30,4 +31,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+#planet {
+  background-color:gold;
+  padding: 3vw;
+  /* width: 100%; */
 }
